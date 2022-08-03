@@ -1,0 +1,6 @@
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\d2.4接受输入\bin\Debug\d2.4接受输入.exe.config
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\d2.4接受输入\bin\Debug\d2.4接受输入.exe
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\d2.4接受输入\bin\Debug\d2.4接受输入.pdb
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\d2.4接受输入\obj\Debug\d2.4接受输入.exe
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\d2.4接受输入\obj\Debug\d2.4接受输入.pdb
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\d2.4接受输入\obj\Debug\d2.4接受输入.csprojResolveAssemblyReference.cache

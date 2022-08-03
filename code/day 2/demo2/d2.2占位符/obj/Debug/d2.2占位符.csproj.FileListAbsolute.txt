@@ -1,0 +1,6 @@
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\d2.2占位符\bin\Debug\d2.2占位符.exe.config
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\d2.2占位符\bin\Debug\d2.2占位符.exe
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\d2.2占位符\bin\Debug\d2.2占位符.pdb
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\d2.2占位符\obj\Debug\d2.2占位符.exe
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\d2.2占位符\obj\Debug\d2.2占位符.pdb
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\d2.2占位符\obj\Debug\d2.2占位符.csprojResolveAssemblyReference.cache
