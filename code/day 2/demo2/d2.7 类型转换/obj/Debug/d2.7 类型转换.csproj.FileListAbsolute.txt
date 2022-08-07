@@ -1,0 +1,6 @@
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\d2.7 类型转换\bin\Debug\d2.7 类型转换.exe.config
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\d2.7 类型转换\bin\Debug\d2.7 类型转换.exe
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\d2.7 类型转换\bin\Debug\d2.7 类型转换.pdb
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\d2.7 类型转换\obj\Debug\d2.7 类型转换.csprojResolveAssemblyReference.cache
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\d2.7 类型转换\obj\Debug\d2.7 类型转换.exe
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\d2.7 类型转换\obj\Debug\d2.7 类型转换.pdb

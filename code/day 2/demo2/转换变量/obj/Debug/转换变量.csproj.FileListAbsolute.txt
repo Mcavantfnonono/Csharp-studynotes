@@ -1,0 +1,6 @@
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\转换变量\bin\Debug\转换变量.exe.config
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\转换变量\bin\Debug\转换变量.exe
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\转换变量\bin\Debug\转换变量.pdb
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\转换变量\obj\Debug\转换变量.exe
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\转换变量\obj\Debug\转换变量.pdb
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day 2\demo2\转换变量\bin\Debug\d2.3转换变量.exe.config
