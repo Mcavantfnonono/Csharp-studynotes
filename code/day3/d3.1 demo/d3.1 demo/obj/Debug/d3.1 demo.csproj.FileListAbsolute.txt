@@ -1,0 +1,6 @@
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day3\d3.1 demo\d3.1 demo\bin\Debug\d3.1 demo.exe.config
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day3\d3.1 demo\d3.1 demo\bin\Debug\d3.1 demo.exe
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day3\d3.1 demo\d3.1 demo\bin\Debug\d3.1 demo.pdb
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day3\d3.1 demo\d3.1 demo\obj\Debug\d3.1 demo.csprojResolveAssemblyReference.cache
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day3\d3.1 demo\d3.1 demo\obj\Debug\d3.1 demo.exe
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day3\d3.1 demo\d3.1 demo\obj\Debug\d3.1 demo.pdb

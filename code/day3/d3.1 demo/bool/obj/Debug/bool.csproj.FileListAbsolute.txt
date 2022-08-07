@@ -1,0 +1,7 @@
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day3\d3.1 demo\bool\bin\Debug\@bool.exe.config
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day3\d3.1 demo\bool\bin\Debug\@bool.exe
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day3\d3.1 demo\bool\bin\Debug\@bool.pdb
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day3\d3.1 demo\bool\obj\Debug\bool.csprojResolveAssemblyReference.cache
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day3\d3.1 demo\bool\obj\Debug\@bool.exe
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day3\d3.1 demo\bool\obj\Debug\@bool.pdb
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day3\d3.1 demo\bool\bin\Debug\@3.3bool.exe.config

@@ -1,0 +1,5 @@
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day3\d3.1 demo\d3.2 ++--\bin\Debug\d3.2 ++--.exe.config
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day3\d3.1 demo\d3.2 ++--\bin\Debug\d3.2 ++--.exe
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day3\d3.1 demo\d3.2 ++--\bin\Debug\d3.2 ++--.pdb
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day3\d3.1 demo\d3.2 ++--\obj\Debug\d3.2 ++--.exe
+C:\Users\maxlinedebugheadhooo\Desktop\learn cs\code\day3\d3.1 demo\d3.2 ++--\obj\Debug\d3.2 ++--.pdb
